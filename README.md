@@ -83,7 +83,7 @@ Delivered a global COVID-19 dashboard for executive and research use.
 
 Enabled data-driven understanding of pandemic spread and recovery timelines.
 
-Demonstrated data storytelling through visualization — connecting SQL-based metrics to real-world public health outcomes.
+Demonstrated data storytelling through visualization connecting SQL-based metrics to real-world public health outcomes.
 
 🛠️ Skills Demonstrated
 
