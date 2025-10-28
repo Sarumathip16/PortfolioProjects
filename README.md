@@ -5,7 +5,7 @@ Author: Sarumathi Palanisamy
 📊 Overview
 
 This project analyzes the global financial and health impact of the COVID-19 pandemic using SQL for data analysis and Tableau for visualization.
-It highlights how COVID-19 affected total cases, death rates, and the percentage of population infected across continents — providing actionable insights into regional resilience and recovery patterns.
+It highlights how COVID-19 affected total cases, death rates, and the percentage of population infected across continents providing actionable insights into regional resilience and recovery patterns.
 
 The dashboard visualizes key metrics such as:
 
@@ -36,7 +36,7 @@ Continent – Regional grouping
 
 🧮 Tools & Technologies
 
-SQL (PostgreSQL / MySQL) – Data extraction, cleaning, and aggregation
+SQL (PostgreSQL / MySQL) - Data extraction, cleaning, and aggregation
 
 Tableau – Dashboarding and visualization
 
